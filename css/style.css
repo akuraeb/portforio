@@ -432,7 +432,7 @@ img {
 
   /*  メインビジュアル */
   .mv {
-    height: 40vh;
+    height: 30vh;
   }
 
   /* .mv-container {
@@ -472,10 +472,6 @@ img {
     margin-bottom: 30px;
   }
 
-  .works-img {
-    width: 248px;
-    height: auto;
-  }
   /* Skill */
   .skill-list {
     display: block;
